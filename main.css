@@ -1,0 +1,16 @@
+.box-1{
+        background-color: aquamarine;
+        width: 30%;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 5px;
+        border-top: 5px solid black;
+        border-bottom: 3px solid black;
+        border-left: solid 3px rebeccapurple;
+        border-right: solid 3px rebeccapurple;
+        margin-left: 60px;
+        margin-right: 60px;
+        margin-top: 60px;
+        border-radius: 8px;
+        
+}
